@@ -1,0 +1,262 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+vclk_div
+Z0 !s110 1704907017
+!i10b 1
+!s100 ?A7VKRH[SD_JmKligZg6d0
+IoajLI@6P3Eh=DVDZS;YBD0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/Iulia/Desktop/CISL_proj
+Z3 w1702502873
+8clk_div.v
+Fclk_div.v
+L0 1
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z5 !s108 1704907017.000000
+Z6 !s107 debounce.v|fsm.v|clk_div.v|counter.v|countere_cascadate.v|display_hexa.v|top.v|C:/Users/Iulia/Desktop/CISL_proj/tb.v|
+Z7 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Iulia/Desktop/CISL_proj/tb.v|
+!i113 1
+Z8 o-work work
+Z9 tCvgOpt 0
+vcounter
+R0
+!i10b 1
+!s100 =]VBYI]XeQB@X_5ZE5nnf2
+ISc_`V?50N?2Q2i_[f5R0_0
+R1
+R2
+R3
+8counter.v
+Fcounter.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+Z10 !s107 fsm.v|counter.v|countere_cascadate.v|C:/Users/Iulia/Desktop/CISL_proj/countere_fsm_top.v|
+Z11 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Iulia/Desktop/CISL_proj/countere_fsm_top.v|
+!i113 1
+R8
+R9
+vcountere_cascadate
+R0
+!i10b 1
+!s100 Jh`d]n>YF63?W;OO^00KP3
+IClSWFISHSM:<9<zmcga<S0
+R1
+R2
+w1702937295
+8countere_cascadate.v
+Fcountere_cascadate.v
+L0 3
+R4
+r1
+!s85 0
+31
+R5
+R10
+R11
+!i113 1
+R8
+R9
+vcountere_top
+R0
+!i10b 1
+!s100 ?`lh0YzC?LG9J]YYdOUJz2
+I^2mzm@6n1KcPc42FmNEHi3
+R1
+R2
+w1704906986
+8C:/Users/Iulia/Desktop/CISL_proj/countere_fsm_top.v
+FC:/Users/Iulia/Desktop/CISL_proj/countere_fsm_top.v
+L0 5
+R4
+r1
+!s85 0
+31
+R5
+R10
+R11
+!i113 1
+R8
+R9
+vdebounce
+R0
+!i10b 1
+!s100 W4@<8CThT3`Tc]bjb9[c`3
+I[_e@0P55MiZo:J`[m]5kR3
+R1
+R2
+R3
+8debounce.v
+Fdebounce.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+R9
+vdisplay_hexa
+R0
+!i10b 1
+!s100 PRHHegFQcd2A?Uc;j4aGV1
+ICXQeM4^JSHd^DHzbc?3_Q1
+R1
+R2
+R3
+8display_hexa.v
+Fdisplay_hexa.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+R9
+vfsm
+R0
+!i10b 1
+!s100 mQ0jf`oFeXV]`iDVX`?WW3
+Io8ZB=Sd6Z774Q56IIH>Vz1
+R1
+R2
+w1704902102
+8fsm.v
+Ffsm.v
+L0 7
+R4
+r1
+!s85 0
+31
+R5
+R10
+R11
+!i113 1
+R8
+R9
+vfsm_rom_tb
+R0
+!i10b 1
+!s100 ifI27X=AoMXgF3M4OHJlN2
+Id[l2z>08;<lzZmHg4Rf3[2
+R1
+R2
+w1704906960
+8C:\Users\Iulia\Desktop\CISL_proj\fsm_rom_tb.v
+FC:\Users\Iulia\Desktop\CISL_proj\fsm_rom_tb.v
+L0 4
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:\Users\Iulia\Desktop\CISL_proj\fsm_rom_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Iulia\Desktop\CISL_proj\fsm_rom_tb.v|
+!i113 1
+R8
+R9
+vrom
+R0
+!i10b 1
+!s100 _[_8Qi3jP:d3[M0gC3T`Z2
+Im[nUGQZD69_b_9GW7njI12
+R1
+R2
+w1704906814
+8C:/Users/Iulia/Desktop/CISL_proj/rom.v
+FC:/Users/Iulia/Desktop/CISL_proj/rom.v
+L0 2
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Iulia/Desktop/CISL_proj/rom.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Iulia/Desktop/CISL_proj/rom.v|
+!i113 1
+R8
+R9
+vsram
+!s110 1703082535
+!i10b 1
+!s100 N?QmRYXj@cb6UWh?B5Xo30
+IVFNUPhQd@JQ[OChC7leCM0
+R1
+R2
+w1703012309
+8C:\Users\Iulia\Desktop\CISL_proj\sram.v
+FC:\Users\Iulia\Desktop\CISL_proj\sram.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1703082535.000000
+!s107 C:\Users\Iulia\Desktop\CISL_proj\sram.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Iulia\Desktop\CISL_proj\sram.v|
+!i113 1
+R8
+R9
+vtop
+R0
+!i10b 1
+!s100 heNVHo=5gV8U^P]_6l@Nh1
+I?^1HA;ig:3DeMgXXYldVl3
+R1
+R2
+w1703014268
+8top.v
+Ftop.v
+L0 8
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+R9
+vtop_tb
+R0
+!i10b 1
+!s100 WOZoUUoEB2ClRD:]T8A[]3
+IBSVJ?JU@AFH=2;e?^6R]m0
+R1
+R2
+w1703074150
+8C:/Users/Iulia/Desktop/CISL_proj/tb.v
+FC:/Users/Iulia/Desktop/CISL_proj/tb.v
+L0 5
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+R9

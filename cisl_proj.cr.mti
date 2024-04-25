@@ -1,0 +1,95 @@
+C:/Users/Iulia/Desktop/CISL_proj/fsm_rom_tb.v {1 {vlog -work work -stats=none {C:\Users\Iulia\Desktop\CISL_proj\fsm_rom_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module fsm_rom_tb
+
+Top level modules:
+	fsm_rom_tb
+
+} {} {}} C:/Users/Iulia/Desktop/CISL_proj/counter.v {1 {vlog -work work -stats=none C:/Users/Iulia/Desktop/CISL_proj/counter.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module counter
+
+Top level modules:
+	counter
+
+} {} {}} C:/Users/Iulia/Desktop/CISL_proj/display_hexa.v {1 {vlog -work work -stats=none C:/Users/Iulia/Desktop/CISL_proj/display_hexa.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module display_hexa
+
+Top level modules:
+	display_hexa
+
+} {} {}} C:/Users/Iulia/Desktop/CISL_proj/countere_fsm_top.v {1 {vlog -work work -stats=none C:/Users/Iulia/Desktop/CISL_proj/countere_fsm_top.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module counter
+-- Compiling module countere_cascadate
+-- Compiling module fsm
+-- Compiling module countere_top
+
+Top level modules:
+	countere_cascadate
+	countere_top
+
+} {} {}} C:/Users/Iulia/Desktop/CISL_proj/rom.v {1 {vlog -work work -stats=none C:/Users/Iulia/Desktop/CISL_proj/rom.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module rom
+
+Top level modules:
+	rom
+
+} {} {}} C:/Users/Iulia/Desktop/CISL_proj/top.v {1 {vlog -work work -stats=none C:/Users/Iulia/Desktop/CISL_proj/top.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module display_hexa
+-- Compiling module counter
+-- Compiling module countere_cascadate
+-- Compiling module clk_div
+-- Compiling module fsm
+-- Compiling module debounce
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}} C:/Users/Iulia/Desktop/CISL_proj/sram.v {0 {vlog -work work -stats=none C:/Users/Iulia/Desktop/CISL_proj/sram.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module sram
+** Error: C:/Users/Iulia/Desktop/CISL_proj/sram.v(10): (vlog-2730) Undefined variable: 'wr_en'.
+
+} {4.0 5.0} {}} C:/Users/Iulia/Desktop/CISL_proj/clk_div.v {1 {vlog -work work -stats=none C:/Users/Iulia/Desktop/CISL_proj/clk_div.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module clk_div
+
+Top level modules:
+	clk_div
+
+} {} {}} C:/Users/Iulia/Desktop/CISL_proj/debounce.v {1 {vlog -work work -stats=none C:/Users/Iulia/Desktop/CISL_proj/debounce.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module debounce
+
+Top level modules:
+	debounce
+
+} {} {}} C:/Users/Iulia/Desktop/CISL_proj/countere_cascadate.v {1 {vlog -work work -stats=none C:/Users/Iulia/Desktop/CISL_proj/countere_cascadate.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module counter
+-- Compiling module countere_cascadate
+
+Top level modules:
+	countere_cascadate
+
+} {} {}} C:/Users/Iulia/Desktop/CISL_proj/tb.v {1 {vlog -work work -stats=none C:/Users/Iulia/Desktop/CISL_proj/tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module display_hexa
+-- Compiling module counter
+-- Compiling module countere_cascadate
+-- Compiling module clk_div
+-- Compiling module fsm
+-- Compiling module debounce
+-- Compiling module top
+-- Compiling module top_tb
+
+Top level modules:
+	top
+	top_tb
+
+} {} {}}
